@@ -4,7 +4,8 @@ This repository preserves the classic, lightweight implementation of a real-time
 This repo is an attempt of the very popular computer vision hand tracker seen all over social media last year. Utilizes Python, OpenCV, and MediaPipe
 
 
-While this exact codebase was the industry standard for lightweight CPU hand tracking throughout 2024 and 2025, Google  restructured the framework in their modern releases. 
+While this exact codebase was the industry standard for lightweight CPU hand tracking throughout 2024 and 2025, Google  restructured the framework in their modern releases.
+_drats_
 
 
 ## The Legacy Stack (How it used to work)
